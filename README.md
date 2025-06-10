@@ -43,14 +43,14 @@ ForkifyApp is a JavaScript-based web application for searching and bookmarking r
 
   ## Installation and usage
 
-  1. Clone the repository:
+  - 1. Clone the repository:
      git clone https://github.com/yordan-gergov01/ForkifyApp.git
 
-  2. Navigate to the project folder:
+  - 2. Navigate to the project folder:
      cd ForkifyApp
 
-  3. Install dependencies:
+  - 3. Install dependencies:
      npm install
 
-  4. Start the development server:
+  - 4. Start the development server:
      npm run start
